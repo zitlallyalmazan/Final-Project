@@ -5,7 +5,7 @@
 Welcome to the Data Structure Fundamentals Tutorial. Every beginning Python programmer
 should understand these basic data structure topics:
 
-* Lists
+* [Lists](https://github.com/zitlallyalmazan/Final-Project/blob/master/1-topic.md)
 * Dictionaries
 * Arrays
 
