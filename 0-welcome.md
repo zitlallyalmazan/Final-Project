@@ -15,19 +15,19 @@
 ## Big-O
 
 * O(1)
-# O(m+n)
-# O(n)
-# O(n^2)
+* O(m+n)
+* O(n)
+* O(n^2)
 
 ## Data Structure
 
-# Arrays
-# Graphs
-# Hash Tables (Dictionary)
-# Linked Lists
-# Queues
-# Stack
-# Trees
+* Arrays
+* Graphs
+* Hash Tables (Dictionary)
+* Linked Lists
+* Queues
+* Stack
+* Trees
 
 ## Additional
 
