@@ -19,3 +19,10 @@ data analysis.
 
 * They can be pretty slow when performing arithmetic operations on their elements.
 * They use more disk space because of their under-the-hood implemntation.
+
+# Problem to solve
+
+The linked list is a usefule data structure providing similar functionality to an array, but
+in a dynamic package. Similar to BST, values in a linked list are wrapped in an instance of a 
+'node' class containing a pointer, allowing the whole list to be linked together by distributed
+references.
