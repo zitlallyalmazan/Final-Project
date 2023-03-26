@@ -6,8 +6,8 @@ Welcome to the Data Structure Fundamentals Tutorial. Every beginning Python prog
 should understand these basic data structure topics:
 
 * [Lists](https://github.com/zitlallyalmazan/Final-Project/blob/master/1-topic.md)
-* Dictionaries
-* Arrays
+* [Dictionaries](https://github.com/zitlallyalmazan/Final-Project/blob/master/2-topic.md)
+* [Arrays](https://github.com/zitlallyalmazan/Final-Project/blob/master/3-topic.md)
 
 Each module will contain descriptions and examples. At the end of each module, you 
 will find a problem to solve on your own. You should only look at the solution after
