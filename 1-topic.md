@@ -1,4 +1,4 @@
-## Lists
+## Queue
 
 Lists are useful when we want to store a collection of different data types
 and subsequently add, remove, or perform operations on each elemnt of the list(by 

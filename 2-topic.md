@@ -1,4 +1,4 @@
-## Dictionaries
+## Linked List
 
 Dictionaries in Python are very similar to real-world dictionaries. These are mutable data structures
 that contain a collection of keys and, associated with them, values. This structure makes them very 

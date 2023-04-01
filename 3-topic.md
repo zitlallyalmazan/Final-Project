@@ -1,4 +1,4 @@
-## Arrays
+## Tree
 
 An array is a fundamental data structure available in most programming languages, and
 it has a wide range of uses across different algorithms. An array is a linear data 
