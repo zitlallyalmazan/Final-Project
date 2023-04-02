@@ -27,7 +27,7 @@ Middle of linked list is 3.
 
 ## Problem to Solve:
 
-Write a Python program to create a singly linked list, append some items and iterate through the list.
+Write a Python program to create a single linked list, append some items and iterate through the list.
 
 ## Solution:
 

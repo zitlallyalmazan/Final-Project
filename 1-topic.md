@@ -1,6 +1,6 @@
 # Queue
 
-## What is Queue in Data Structure?
+## What is a Queue in Data Structure?
 
 A Queue is defined as a linear data structure that is open at both ends and the operations
 are performed in First In First Out (FIFO) order.
@@ -69,7 +69,7 @@ is 10 + 13 + 15 = 38.
 ## Problem to Solve:
 
 Write a Python program to find the three largest
-integers from agiven list of numbers using the queue
+integers from a given list of numbers using the queue
 algorithm. 
 
 ## Solution:
