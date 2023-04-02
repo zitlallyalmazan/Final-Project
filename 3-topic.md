@@ -26,3 +26,9 @@ the tree is empty, then the value of the root is NULL> Each node of a Binary Tre
 * Finding the height of the tree.
 * Find the level of a node of the tree.
 * Finding the size of the entire tree.
+
+## Example:
+
+## Problem to Solve:
+
+## Solution:
