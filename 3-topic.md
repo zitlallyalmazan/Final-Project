@@ -27,7 +27,27 @@ the tree is empty, then the value of the root is NULL> Each node of a Binary Tre
 * Find the level of a node of the tree.
 * Finding the size of the entire tree.
 
-## Example:
+## Example: Check for BST
+
+Given the root of a binary tree. Check whether it is a BST or not.
+
+* The left subtree of a node contains only nodes with keys less than the node's key.
+* The right subtree of a node contains only nodes with keys greater than the node's key.
+* Both the left and right subtrees must also be binary search trees. 
+
+**Input:**
+   2
+ /    \
+1      3
+
+**Output:** 1 
+
+**Explanation:**
+The left subtree of root node contains node
+with key lesser than the root nodes key and 
+the right subtree of root node contains node 
+with key greater than the root nodes key.
+Hence, the tree is a BST.
 
 ## Problem to Solve:
 
