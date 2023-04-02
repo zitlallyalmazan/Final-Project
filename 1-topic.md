@@ -1,28 +1,30 @@
-## Queue
+# Queue
 
-Lists are useful when we want to store a collection of different data types
-and subsequently add, remove, or perform operations on each elemnt of the list(by 
-looping through them).
+## What is Queue in Data Structure?
 
-Lists are useful to store other adata structures ( and even more lists) by creating,
-for instance, lists of dictionaries, tuples, or lists. It is very common to store a table
-as a list of lists (where each inner list represents a table's column) for subsequent
-data analysis.
+A Queue is defined as a linear data structure that is open at both ends and the operations
+are performed in First In First Out (FIFO) order.
 
-# Pros of Lists
+## FIFO Principle of Queue:
 
-* They represent the easiest way to store a collection of related objects.
-* They are easy to modify by removing, adding, and changing elements.
-* They are useful for creating nested data structures, such as a list of lists/dictionaries.
+* A Queue is like a line waiting to purchase tickets, where the first person in line is the 
+first person served. (First come first serve).
+* Position of the entry in a queue ready to be served, that is, the first entry that will be 
+removed from the queue, is called the front of the queue(sometimes, head of the queue), similarly,
+the position of the last entry in the queue, that is, the one most recently added, is called the rear 
+(or the tall) of the queue.
 
-# Cons of Lists
+## Characteristics of Queue:
 
-* They can be pretty slow when performing arithmetic operations on their elements.
-* They use more disk space because of their under-the-hood implemntation.
+* Queue can handle multiple data.
+* Queue can access both ends.
+* Queue are fast and flexible
 
-# Problem to solve
+## Queue Representation:
 
-The linked list is a usefule data structure providing similar functionality to an array, but
-in a dynamic package. Similar to BST, values in a linked list are wrapped in an instance of a 
-'node' class containing a pointer, allowing the whole list to be linked together by distributed
-references.
+Like stacks, Queues can also be represented in an array
+
+## Extra Definitions:
+* Queue: the name of the array storing queue elements.
+* Front: the index where the first element is stored in the array representing the queue.
+* Rear: the index where the last element is stored in an array representing the queue.
