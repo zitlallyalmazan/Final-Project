@@ -1,6 +1,6 @@
 # Queue
 
-![A Queue Data Structure](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimplesnippets.tech%2Fwhat-is-queue-data-structure-queue-operations-working-c-program-to-implement-queue-operations%2F&psig=AOvVaw3_SNhkdpebmE6YcJzfOSja&ust=1680818061749000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIC43a7dk_4CFQAAAAAdAAAAABAE)
+![A Queue Data Structure](https://sp-ao.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_925/https://simplesnippets.tech/wp-content/uploads/2019/04/queue-data-structure-diagram.jpg)
 
 ## What is a Queue in Data Structure?
 
