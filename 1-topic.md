@@ -1,6 +1,6 @@
 # Queue
 
-![A Queue in Datat Structure](/Users/zitallyalmazan/Desktop/WINTER 2023/CSE 212/Final-Project/queue-data-structure-diagram.jpg)
+![A Queue Data Structure Diagram](queue-data-structure-diagram.jpg)
 
 ## What is a Queue in Data Structure?
 
