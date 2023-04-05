@@ -1,6 +1,6 @@
 # Linked List
 
-![Linked List Example](Markdown-Images/linked-list-ex.jpeg)
+[Linked List Example](https://github.com/zitlallyalmazan/Final-Project/blob/master/Picture-Files/linked-list-ex.jpeg)
 
 ## What is a Linked List?
 
@@ -31,7 +31,7 @@ Middle of linked list is 3.
 
 Write a Python program to create a singly linked list, append some items and iterate through the list.
 
-![Image of a Singly Linked List](Markdown-Images/singly-linked-list.png)
+[Singly Linked List Example](https://github.com/zitlallyalmazan/Final-Project/blob/master/Picture-Files/singly-linked-list.png)
 
 ## Solution:
 
