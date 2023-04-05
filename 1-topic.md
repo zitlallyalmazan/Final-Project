@@ -1,5 +1,7 @@
 # Queue
 
+![A Queue Data Structure](queue-data-structure-diagram.jpg)
+
 ## What is a Queue in Data Structure?
 
 A Queue is defined as a linear data structure that is open at both ends and the operations
