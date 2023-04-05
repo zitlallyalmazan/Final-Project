@@ -1,6 +1,6 @@
 # Queue
 
-![A Queue Data Structure](https://sp-ao.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_925/https://simplesnippets.tech/wp-content/uploads/2019/04/queue-data-structure-diagram.jpg)
+![A Queue Data Structure](/Users/zitallyalmazan/Desktop/queue-data-structure-diagram.jpg)
 
 ## What is a Queue in Data Structure?
 
