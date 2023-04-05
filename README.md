@@ -10,8 +10,11 @@
 
 ## Resources
 
-* VSCode
+* VS Code
 * Github
 * GeeksforGeeks
 * YouTube
 
+## Works Cited
+
+* (VS Code tips - Add images and links in Markdown by dragging and dropping)[https://www.youtube.com/watch?v=jpeh1WorrWM]
