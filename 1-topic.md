@@ -1,6 +1,6 @@
 # Queue
 
-![A Queue Data Structure Diagram Example](Markdown-Images/Queue.png)
+[A Queue Data Structure Diagram Example](https://github.com/zitlallyalmazan/Final-Project/blob/master/Picture-Files/Queue.png)
 
 ## What is a Queue in Data Structure?
 
