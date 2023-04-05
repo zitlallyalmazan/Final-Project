@@ -39,7 +39,7 @@ ropes.
 * There are given N ropes of different lengths, we need to connect these ropes into one rope.
 * The cost to connect two ropes is equal to the sum of their lengths.
 
-[Example Solution]()
+[Example Solution](https://github.com/zitlallyalmazan/Final-Project/blob/master/Picture-Files/Queue-example.png)
 
 ## Problem to Solve:
 
