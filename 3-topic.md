@@ -58,4 +58,4 @@ Binary Search Tree (BST) of unique values.
 
 ## Solution:
 
-[Solution Code]()
+[Solution Code](https://github.com/zitlallyalmazan/Final-Project/blob/master/Python-Files/binary-tree-problem-solution.py)
