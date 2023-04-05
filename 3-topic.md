@@ -37,19 +37,7 @@ Given the root of a binary tree. Check whether it is a BST or not.
 * The right subtree of a node contains only nodes with keys greater than the node's key.
 * Both the left and right subtrees must also be binary search trees. 
 
-**Input:**
-   2
- /    \
-1      3
-
-**Output:** 1 
-
-**Explanation:**
-The left subtree of root node contains node
-with key lesser than the root nodes key and 
-the right subtree of root node contains node 
-with key greater than the root nodes key.
-Hence, the tree is a BST.
+[Binary Tree Example](https://github.com/zitlallyalmazan/Final-Project/blob/master/Picture-Files/binary-tree-example.png)
 
 ## Problem to Solve:
 
