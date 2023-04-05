@@ -35,4 +35,4 @@ Write a Python program to create a singly linked list, append some items and ite
 
 ## Solution:
 
-[Solution Code]()
+[Solution Code](https://github.com/zitlallyalmazan/Final-Project/blob/master/Python-Files/linked-list-problem-solution.py)
