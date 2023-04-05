@@ -56,6 +56,6 @@ Hence, the tree is a BST.
 Write a Python program to find the closest value to a given target value in a given non-empty 
 Binary Search Tree (BST) of unique values.
 
-## Solution:
+## Problem Solution:
 
 [Solution Code](https://github.com/zitlallyalmazan/Final-Project/blob/master/Python-Files/binary-tree-problem-solution.py)

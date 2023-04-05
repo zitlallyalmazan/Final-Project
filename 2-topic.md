@@ -33,6 +33,6 @@ Write a Python program to create a singly linked list, append some items and ite
 
 [Singly Linked List Example](https://github.com/zitlallyalmazan/Final-Project/blob/master/Picture-Files/singly-linked-list.png)
 
-## Solution:
+## Problem Solution:
 
 [Solution Code](https://github.com/zitlallyalmazan/Final-Project/blob/master/Python-Files/linked-list-problem-solution.py)

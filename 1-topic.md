@@ -74,6 +74,6 @@ Write a Python program to find the three largest
 integers from a given list of numbers using the queue
 algorithm. 
 
-## Solution:
+## Problem Solution:
 
 [Solution Code](https://github.com/zitlallyalmazan/Final-Project/blob/master/Python-Files/queue-problem-solution.py)
