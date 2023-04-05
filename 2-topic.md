@@ -1,5 +1,7 @@
 # Linked List
 
+![Linked List Example](Markdown-Images/linked-list-ex.jpeg)
+
 ## What is a Linked List?
 
 A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations.
@@ -29,7 +31,7 @@ Middle of linked list is 3.
 
 Write a Python program to create a singly linked list, append some items and iterate through the list.
 
-![Image of a Singly Linked List](singly-linked-list.png)
+![Image of a Singly Linked List](Markdown-Images/singly-linked-list.png)
 
 ## Solution:
 
