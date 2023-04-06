@@ -21,3 +21,6 @@
 * [GeeksforGeeks - Queue Data Structure](https://www.geeksforgeeks.org/queue-data-structure/?ref=shm)
 * [GeeksforGeeks - Linked Lists](https://www.geeksforgeeks.org/data-structures/linked-list/?ref=shm)
 * [VS Code tips - Add images and links in Markdown by dragging and dropping](https://www.youtube.com/watch?v=jpeh1WorrWM)
+* [Queue - Data Structures & Algorithms Tutorials in Python](https://www.youtube.com/watch?v=rUUrmGKYwHw)
+* [Linked List - Data Structures & Algorithms Tutorials in Python](https://www.youtube.com/watch?v=qp8u-frRAnU)
+* [Binary Tree - Data Structures & Algorithms Tutorials In Python](https://www.youtube.com/watch?v=lFq5mYUWEBk)
