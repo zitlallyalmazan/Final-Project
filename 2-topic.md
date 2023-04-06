@@ -19,13 +19,7 @@ The task is to find the **middle** of the linked list.
 **Expected Time Complexity:** O(N)
 **Expected Auxiliary Space:** O(1) 
 
-**Input:**
-LinkedList: 1->2->3->4->5
-
-**Output:** 3
-
-**Explanation:**
-Middle of linked list is 3.
+[Example Solution](https://github.com/zitlallyalmazan/Final-Project/blob/master/Picture-Files/linked-list-example.png)
 
 ## Problem to Solve:
 
@@ -37,4 +31,4 @@ Write a Python program to create a singly linked list, append some items and ite
 
 [Solution Code](https://github.com/zitlallyalmazan/Final-Project/blob/master/Python-Files/linked-list-problem-solution.py)
 
-## [Next Topic: Tree](https://github.com/zitlallyalmazan/Final-Project/blob/master/3-topic.md)
+[Next Topic: Tree](https://github.com/zitlallyalmazan/Final-Project/blob/master/3-topic.md)
