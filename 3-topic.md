@@ -48,6 +48,7 @@ Binary Search Tree (BST) of unique values.
 
 [Solution Code](https://github.com/zitlallyalmazan/Final-Project/blob/master/Python-Files/binary-tree-problem-solution.py)
 
-*[Back To Welcome Page](https://github.com/zitlallyalmazan/Final-Project/blob/master/0-welcome.md)
-* [First Topic: Queue](https://github.com/zitlallyalmazan/Final-Project/blob/master/1-topic.md)
-* [Second Topic: Tree](https://github.com/zitlallyalmazan/Final-Project/blob/master/3-topic.md)
+* [Back To Welcome Page](https://github.com/zitlallyalmazan/Final-Project/blob/master/0-welcome.md)
+* [Back To First Topic: Queue](https://github.com/zitlallyalmazan/Final-Project/blob/master/1-topic.md)
+* [Back To Second Topic: Linked Lists](https://github.com/zitlallyalmazan/Final-Project/blob/master/2-topic.md)
+ 
