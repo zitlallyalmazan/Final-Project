@@ -16,8 +16,8 @@ The task is to find the **middle** of the linked list.
 
 * Given a single linked list of N nodes.
 
-**Expected Time Complexity:** O(N)
-**Expected Auxiliary Space:** O(1) 
+* **Expected Time Complexity:** O(N)
+* **Expected Auxiliary Space:** O(1) 
 
 [Example Solution](https://github.com/zitlallyalmazan/Final-Project/blob/master/Picture-Files/linked-list-example.png)
 
