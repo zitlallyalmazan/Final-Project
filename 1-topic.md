@@ -51,5 +51,5 @@ algorithm.
 
 [Solution Code](https://github.com/zitlallyalmazan/Final-Project/blob/master/Python-Files/queue-problem-solution.py)
 
-[Next Topic: Linked Lists](https://github.com/zitlallyalmazan/Final-Project/blob/master/2-topic.md)
-[Back To Welcome Page](https://github.com/zitlallyalmazan/Final-Project/blob/master/0-welcome.md)
+* [Next Topic: Linked Lists](https://github.com/zitlallyalmazan/Final-Project/blob/master/2-topic.md)
+* [Back To Welcome Page](https://github.com/zitlallyalmazan/Final-Project/blob/master/0-welcome.md)
