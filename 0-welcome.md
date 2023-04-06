@@ -18,5 +18,3 @@ you have attempted to solve the problem first.
 For question or comments, please send them to:
 
 ZItlally Almazan, BYU-Idaho, CSE 212, Section 4, alm20004@byui.edu
-
-[First Topic: Queue](https://github.com/zitlallyalmazan/Final-Project/blob/master/1-topic.md)
