@@ -1,5 +1,7 @@
 # Data Structure Fundamentals Tutorial
 
+[Data Structure Fundamentals Tutorial Welcome Page](https://github.com/zitlallyalmazan/Final-Project/blob/master/0-welcome.md)
+
 ## Pages
 
 * README
